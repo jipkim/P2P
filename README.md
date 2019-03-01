@@ -7,6 +7,7 @@ The following packages must be installed:
   - Ipopt
   - JuMP
   - JLD    
+  - MatpowerCases
 
 This code includes two execution files:
 
@@ -15,8 +16,9 @@ PC.jl: Solving the proposed P2P model with the Peer-centric configuration
 
 To run the code, execute SC.jl/PC.jl, or include() it from a Julia prompt.
 
-The input data is given as follows:
+The input data is imported from MatpowerCases Package.
 
+For "AP15busDN" testsystem is given as follows in data folder:
   - Node.csv: Distribution network data
   - Line.csv: Distribution line data
   - Generator.csv: Distributed generation data
