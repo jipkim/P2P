@@ -1,0 +1,4 @@
+gindex,gtype,location,Pg,Qg,Qmax,Qmin,Vg,mBase,status,Pmax,Pmin,cost-2nd,cost-1st,cost-nl,SUcost,SDcost,RU,RD,UPtime,Dntime,Zone name
+1,Root,1,0,0,1000,0,0,1,0,1000,0,0,50,0,0,0,0,0,0,0,0
+2,DG,1,0,0,4.2,0,0,1,0,4.2,0,0,50,0,0,0,0,0,0,0,0
+3,DG,12,0,0,0.4,0,0,1,0,0.4,0,0,10,0,0,0,0,0,0,0,0

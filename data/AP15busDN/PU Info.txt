@@ -1,0 +1,3 @@
+Sbase = 1MVA
+Vbase = 12.66kV
+Zbase = 160.2756 ohm
