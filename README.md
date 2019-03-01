@@ -18,7 +18,7 @@ To run the code, execute SC.jl/PC.jl, or include() it from a Julia prompt.
 
 The input data is imported from MatpowerCases Package.
 
-For "AP15busDN" testsystem is given as follows in data folder:
+"AP15busDN" testsystem is given as follows in data folder:
   - Node.csv: Distribution network data
   - Line.csv: Distribution line data
   - Generator.csv: Distributed generation data
