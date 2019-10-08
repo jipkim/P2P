@@ -1,6 +1,6 @@
 # Code supplement for "A P2P-dominant Distribution System Architecture"
 
-This code was developed under Julia v0.6 by Jip Kim in 2019.
+This repository contains supplementary data and Julia code for "A P2P-dominant Distribution System Architecture" by Jip Kim and Yury Dvorkin.
 The following packages must be installed:
 
   - Gurobi
