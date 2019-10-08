@@ -1,4 +1,4 @@
-# P2P
+# Code supplement for "A P2P-dominant Distribution System Architecture"
 
 This code was developed under Julia v0.6 by Jip Kim in 2019.
 The following packages must be installed:
